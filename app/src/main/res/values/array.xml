@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sodegda">
+        <item>Зимняя спецодежда</item>
+        <item>Летняя спецодежда</item>
+        <item>Сигнальная спецодежда</item>
+    </string-array>
+    <string-array name="sodegda_content">
+        <item>Для защиты от пониженных температур и внешних воздействий</item>
+        <item>Для защиты от общих производственных факторов</item>
+        <item>Для повышенной видимости</item>
+    </string-array>
+    <array name="sodegda_image_array">
+        <item>@drawable/sod1</item>
+        <item>@drawable/sod2</item>
+        <item>@drawable/sod3</item>
+    </array>
+
+    <string-array name="sobuv">
+        <item>Зимняя спецобувь</item>
+        <item>Летняя спецовувь</item>
+        <item>Влагозащитная обувь</item>
+    </string-array>
+    <string-array name="sobuv_content">
+        <item>Для защиты от пониженных температур и внешних воздействий</item>
+        <item>Для защиты от общих производственных факторов</item>
+        <item>Для защиты от влаги</item>
+    </string-array>
+    <array name="sobuv_image_array">
+        <item>@drawable/sob1</item>
+        <item>@drawable/sob2</item>
+        <item>@drawable/sob3</item>
+    </array>
+
+    <string-array name="siz">
+        <item>Средства защиты рук</item>
+        <item>Средства защиты головы</item>
+        <item>Средства защиты глаз</item>
+    </string-array>
+    <string-array name="siz_content">
+        <item>Для защиты рук от истирания и порезов</item>
+        <item>Для защиты от общих производственных факторов</item>
+        <item>Для защиты глаз от летящих частиц</item>
+    </string-array>
+    <array name="siz_image_array">
+        <item>@drawable/siz1</item>
+        <item>@drawable/siz2</item>
+        <item>@drawable/siz3</item>
+    </array>
+
+    <string-array name="medforma">
+        <item>Халаты</item>
+        <item>Костюмы</item>
+        <item>Головные уборы</item>
+    </string-array>
+    <string-array name="medforma_content">
+        <item>Для защиты персонала</item>
+        <item>Для защиты персонала</item>
+        <item>Для защиты персонала</item>
+    </string-array>
+    <array name="medforma_image_array">
+        <item>@drawable/med1</item>
+        <item>@drawable/med2</item>
+        <item>@drawable/med3</item>
+    </array>
+
+</resources>

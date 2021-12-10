@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item android:title="@string/sodegda"
+            android:id="@+id/id_sodegda"
+            android:icon="@drawable/ic_sodegda"/>
+        <item android:title="@string/sobuv"
+            android:id="@+id/id_sobuv"
+            android:icon="@drawable/ic_sobuv"/>
+        <item android:title="@string/siz"
+            android:id="@+id/id_siz"
+            android:icon="@drawable/ic_siz"/>
+        <item android:title="@string/medforma"
+            android:id="@+id/id_medforma"
+            android:icon="@drawable/ic_medforma"/>
+    </group>
+
+
+</menu>

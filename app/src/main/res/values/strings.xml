@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Справочник спецодежды</string>
+    <string name="sodegda">Спецодежда</string>
+    <string name="sobuv">Спецобувь</string>
+    <string name="siz">Средства защиты</string>
+    <string name="medforma">Медформа</string>
+</resources>
